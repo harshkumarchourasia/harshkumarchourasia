@@ -5,7 +5,7 @@ I'm **Harsh Kumar Chourasia**, a passionate software developer based in India, s
 ## Experience
 
 ### Product Engineer (Machine Learning) @ Sprinklr
-- 🚀 Led cutting-edge ML product development, engineered robust infrastructure, and emphasized project ownership, security, and scalability at Sprinklr.
+- 🚀 Spearheaded cutting-edge ML product development, engineered robust infrastructure, and emphasized project ownership, security, and scalability at Sprinklr.
 
 ### Blockchain Developer @ Polytrade.finance
 - 🌐 Contributed to bringing Trade Finance to Blockchain, developed Lender Pool Smart Contract, and led smart contract development, testing, and security analysis.
@@ -22,4 +22,4 @@ I'm **Harsh Kumar Chourasia**, a passionate software developer based in India, s
 ### Dissertation on Elliptic Curve Cryptography
 - 📚 Explored Elliptic Curve mathematics and its role in Blockchain Technology. [GitHub](https://github.com/harshkumarchourasia/EllipticCurveCryptography-Dissertation)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-kumar-chourasia-463051149/), [Twitter](https://twitter.com/HarshCh78395642), or read my articles on [Medium](https://medium.com/@harshkumarchourasia), and explore more on [GitHub](https://github.com/harshkumarchourasia).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-kumar-chourasia-463051149/) 👤, [Twitter](https://twitter.com/HarshCh78395642) 🐦, or read my articles on [Medium](https://medium.com/@harshkumarchourasia) 📖, and explore more on [GitHub](https://github.com/harshkumarchourasia) 🚀.
