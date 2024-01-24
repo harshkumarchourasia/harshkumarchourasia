@@ -18,6 +18,7 @@ I'm **Harsh Kumar Chourasia**, a passionate software developer based in India, s
 ### OpenSource Contributions
 - 🌐 Contributed to 'Lender Pool' Smart Contract for PolyTrade. [GitHub](https://github.com/polytrade-finance/lender-pool/commits?author=harsh-polytrade)
 - 🔄 Implemented a retry mechanism for OpenAI calls in the 'Outlines' project. [GitHub](https://github.com/outlines-dev/outlines/commits?author=harsh-sprinklr)
+- 📦 Develop and maintain the ir-metric pip package for Information Retrieval metrics. [GitHub](https://github.com/harshkumarchourasia/ir_metric) PyPI(https://pypi.org/project/ir-metric/)
 
 ### Dissertation on Elliptic Curve Cryptography
 - 📚 Explored Elliptic Curve mathematics and its role in Blockchain Technology. [GitHub](https://github.com/harshkumarchourasia/EllipticCurveCryptography-Dissertation)
