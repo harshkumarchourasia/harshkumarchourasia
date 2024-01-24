@@ -5,8 +5,11 @@ I'm **Harsh Kumar Chourasia**, a passionate software developer based in India, s
 ## Experience
 
 ### Product Engineer (Machine Learning) @ Sprinklr
-- 🚀 Spearheaded cutting-edge ML product development, engineered robust infrastructure, and emphasized project ownership, security, and scalability at Sprinklr.
-
+- Crafting cutting-edge machine learning solutions and playing a pivotal role in developing search products using LLM (RAG) at Sprinklr. 🤖
+- Key Achievements:
+  🛠 Engineered a robust infrastructure, automated processes, and optimized costs to boost system performance.
+  🚀 Deployed projects seamlessly using Python, along with essential tools like Kubernetes, Docker, Jenkins, MongoDB, Git, vector databases, etc
+  
 ### Blockchain Developer @ Polytrade.finance
 - 🌐 Contributed to bringing Trade Finance to Blockchain, developed Lender Pool Smart Contract, and led smart contract development, testing, and security analysis.
 
