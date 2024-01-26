@@ -1,8 +1,6 @@
 # Hi there! 👋
 
-I'm **Harsh Kumar Chourasia**, a passionate software developer based in India, specializing in machine learning, blockchain development, and product engineering.
-
-## Experience
+I'm **Harsh Kumar Chourasia**, a passionate software developer based in India, specializing in machine learning.
 
 ### Product Engineer (Machine Learning) @ Sprinklr
 - Crafting cutting-edge machine learning solutions and playing a pivotal role in developing search products using LLM (RAG) at Sprinklr. 🤖
