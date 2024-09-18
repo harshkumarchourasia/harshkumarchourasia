@@ -1,27 +1,35 @@
 # Hi there! 👋
 
-I'm **Harsh Kumar Chourasia**, a passionate software developer based in India, specializing in machine learning.
+I'm **Harsh Kumar Chourasia**, a passionate software developer based in India, specializing in **machine learning** and **AI-driven solutions**.
 
-### Product Engineer (Machine Learning) @ Sprinklr
-- Crafting cutting-edge machine learning solutions and playing a pivotal role in developing search products using LLM (RAG) at Sprinklr. 🤖
-- Key Achievements:
-  🛠 Engineered a robust infrastructure, automated processes, and optimized costs to boost system performance.
-  🚀 Deployed projects seamlessly using Python, along with essential tools like Kubernetes, Docker, Jenkins, MongoDB, Git, vector databases, etc
-  
-### Blockchain Developer @ Polytrade.finance
-- 🌐 Contributed to bringing Trade Finance to Blockchain, developed Lender Pool Smart Contract, and led smart contract development, testing, and security analysis.
+### Senior Product Engineer (Machine Learning) @ Sprinklr
+- 🚀 Developing next-gen AI products using **RAG (Retrieval-Augmented Generation)**, serving 20+ companies with cutting-edge solutions.
+- 🛠 Optimized the search pipeline, reducing memory and bandwidth by 95%, and implemented scalable solutions.
+- 🛡️ Created an **AI safety guardrails library** (Patent pending) and contributed to deploying ML models at scale for hundreds of clients.
+- 🧰 Leveraging tools like **Python**, **Kubernetes**, **Docker**, **MongoDB**, **Qdrant**, **ElasticSearch**, and more.
+
+### Blockchain Developer Intern @ Polytrade Finance
+- 🌐 Led smart contract development, working on Lender Pool contracts and handling over **$5 million** on the Ethereum chain.
+- 🛡️ Focused on security analysis, testing, and deployment using **Solidity**, **Hardhat**, and **Ethers**.
 
 ### Product Engineer Intern @ Sprinklr
-- 🛠 Developed a role-based text annotation and visualization platform powered by Active Learning, contributing to full-stack development.
+- 🛠 Built a role-based text annotation platform from scratch, reducing annotation time by at least 50% through **Active Learning**.
 
 ## Projects
 
-### OpenSource Contributions
-- 🌐 Contributed to 'Lender Pool' Smart Contract for PolyTrade. [GitHub](https://github.com/polytrade-finance/lender-pool/commits?author=harsh-polytrade)
-- 🔄 Implemented a retry mechanism for OpenAI calls in the 'Outlines' project. [GitHub](https://github.com/outlines-dev/outlines/commits?author=harsh-sprinklr)
-- 📦 Develop and maintain the ir-metric pip package for Information Retrieval metrics. [GitHub](https://github.com/harshkumarchourasia/ir_metric) [PyPI](https://pypi.org/project/ir-metric/)
+### Sprinklr Digital Twin
+- Developed an AI agent framework integrating guardrails, tools, search, and streaming, reducing latency to **10ms**.
+- Integrated tools like **web search**, **Kubernetes**, and **ElasticSearch** into the platform.
+
+### Open Source Contributions
+- 🔄 Implemented a retry mechanism for OpenAI calls in the **Outlines** project for enhanced robustness. [GitHub](https://github.com/outlines-dev/outlines/commits?author=harsh-sprinklr)
+- 📦 Developed and maintain the **ir-metric** Python package for Information Retrieval metrics. [GitHub](https://github.com/harshkumarchourasia/ir_metric) | [PyPI](https://pypi.org/project/ir-metric/)
+- 🧠 Solved distributed systems challenges with **Rust** in the **Gossip Glomers** project. [GitHub](https://github.com/harshkumarchourasia/rust_gossip_gloomers)
 
 ### Dissertation on Elliptic Curve Cryptography
-- 📚 Explored Elliptic Curve mathematics and its role in Blockchain Technology. [GitHub](https://github.com/harshkumarchourasia/EllipticCurveCryptography-Dissertation)
+- 📚 Explored the mathematics of Elliptic Curve Cryptography and its applications in **Blockchain**. [GitHub](https://github.com/harshkumarchourasia/EllipticCurveCryptography-Dissertation)
+
+## Achievements
+- 🏆 **Winner** - AI Hackathon 2024 at Sprinklr for developing a Generative AI-based chatbot for OnCall teams.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-kumar-chourasia-463051149/) 👤, [Twitter](https://twitter.com/HarshCh78395642) 🐦, or read my articles on [Medium](https://medium.com/@harshkumarchourasia) 📖, and explore more on [GitHub](https://github.com/harshkumarchourasia) 🚀.
