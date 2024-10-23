@@ -50,7 +50,6 @@
 
 - LinkedIn: [Harsh Kumar Chourasia](https://linkedin.com/in/harsh-kumar-chourasia)
 - Email: harshkumarchourasia@gmail.com
-- Phone: +91-8709712809
 
 ---
 <p align="center">
